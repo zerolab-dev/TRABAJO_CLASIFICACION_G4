@@ -21,7 +21,7 @@ features_modelo = [
 ]
 
 # Valores para inputs categóricos
-cuotapromedio_options = ["_1", "_2", "_3", "_4", "_5"]
+cuotapromedio_options = ["2", "2_5", "5_10", "10"]
 
 st.set_page_config(layout="wide")
 st.title("Modelo de Clasificación eXtreme Gradient Boosting")
